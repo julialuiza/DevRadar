@@ -1,0 +1,9 @@
+{
+  "expoServerNgrokUrl": "https://fz-5k3.anonymous.mobile.exp.direct",
+  "packagerNgrokUrl": "https://packager.fz-5k3.anonymous.mobile.exp.direct",
+  "ngrokPid": 14924,
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 6900
+}
